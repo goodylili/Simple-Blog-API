@@ -20,5 +20,4 @@ This is a simple blog API written bla bla
 ## Author(s)
 
 [Goodnessuc](https://twitter.com/goodylili)
-# Simple-Blog-API
-# Simple-Blog-API
+
